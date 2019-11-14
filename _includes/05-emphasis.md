@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Languages* :book:
+* Russian 
+* English
+* German
+
+**Hard skills** :computer:
+1. Matlab 
+2. Mathcad
+3. Altium Designer
